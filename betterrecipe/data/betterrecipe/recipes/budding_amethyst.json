@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ebe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_cluster"
+    },
+    "b": {
+      "item": "minecraft:small_amethyst_bud"
+    },
+    "c": {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    "d": {
+      "item": "minecraft:amethyst_block"
+    },
+    "e": {
+      "item": "minecraft:medium_amethyst_bud"
+    }
+  },
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  }
+}

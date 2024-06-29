@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:turtle_helmet"
+    },
+    "b": {
+      "item": "minecraft:end_crystal"
+    },
+    "c": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "d": {
+      "item": "minecraft:dragon_egg"
+    },
+    "e": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "f": {
+      "item": "minecraft:budding_amethyst"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_egg",
+    "count": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blaze_rod"
+    },
+    "b": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "c": {
+      "item": "minecraft:dragon_breath"
+    },
+    "d": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_head",
+    "count": 1
+  }
+}
